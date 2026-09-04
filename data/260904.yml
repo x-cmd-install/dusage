@@ -7,7 +7,7 @@ about:
   head: a19daf1
   archived: false
   latestVersion: 0.4.1
-  collectedAt: 2026-09-04T19:52:06Z
+  collectedAt: 2026-09-04T20:49:26Z
 timeline:
   created: 2022-01-14
   lastCommit: 2026-08-30
@@ -82,5 +82,33 @@ total:
   openIssue: 0
   commit: 367
 ---
+path: /home/runner/.x-repo/github.com/mihaigalos/dusage
+collectedAt: 2026-09-04T20:49:28Z
+loc:
+  Rust:
+    code: 517
+    comments: 7
+    blanks: 44
+    files: 10
+  Python:
+    code: 77
+    comments: 0
+    blanks: 18
+    files: 1
+  Toml:
+    code: 18
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 57
+    blanks: 25
+    files: 2
+total:
+  code: 616
+  comments: 64
+  blanks: 89
+  files: 14
 ---
 
