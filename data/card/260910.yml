@@ -7,7 +7,7 @@ about:
   latestVersion: "0.4.1"
   latestRelease: "0.4.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:39:04Z
+  collectedAt: 2026-09-10T20:43:48Z
 timeline:
   created: 2022-01-14
   lastCommit: 2026-08-30
@@ -85,7 +85,7 @@ total:
   commit: 367
 ---
 path: /home/runner/.x-repo/github.com/mihaigalos/dusage
-collectedAt: 2026-09-10T05:39:06Z
+collectedAt: 2026-09-10T20:43:49Z
 loc:
   Rust:
     code: 517

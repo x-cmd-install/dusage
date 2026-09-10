@@ -1,0 +1,64 @@
+- repo: altsisyphus
+  srcname: dusage
+  binnames:
+    - dusage
+    - dusage-debuginfo
+  visiblename: dusage
+  version: 0.4.0
+  origversion: 0.4.0-alt1
+  status: outdated
+  summary: A command line disk usage information tool
+  maintainers:
+    - zerospirit@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - System/Base
+- repo: aur
+  srcname: dusage-bin
+  binname: dusage-bin
+  visiblename: dusage-bin
+  version: 0.4.1
+  origversion: 0.4.1-1
+  status: newest
+  summary: A command line disk usage information tool
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: pkgsrc_2026_1
+  srcname: sysutils/dusage
+  binname: dusage
+  visiblename: sysutils/dusage
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Command line disk usage information tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_2026_2
+  srcname: sysutils/dusage
+  binname: dusage
+  visiblename: sysutils/dusage
+  version: 0.4.0
+  origversion: null
+  status: outdated
+  summary: Command line disk usage information tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_current
+  srcname: sysutils/dusage
+  binname: dusage
+  visiblename: sysutils/dusage
+  version: 0.4.1
+  origversion: null
+  status: newest
+  summary: Command line disk usage information tool
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
