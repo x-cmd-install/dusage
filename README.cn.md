@@ -46,12 +46,12 @@ x install dusage
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-15 | 1 | 2 | 0 | 0 | 0 | 4 |
-| 90d | 2026-06-15 | 1 | 2 | 1 | 0 | 0 | 7 |
-| last180d | 2026-03-17 | 1 | 2 | 1 | 0 | 0 | 9 |
-| 360d | 2025-09-18 | 1 | 3 | 1 | 0 | 0 | 26 |
-| last720d | 2024-09-23 | 2 | 5 | 2 | 2 | 0 | 73 |
+| 30d | 2026-08-15 | 1 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-16 | 1 | 2 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-16 | 1 | 2 | 1 | 0 | 0 | 7 |
+| last180d | 2026-03-18 | 1 | 2 | 1 | 0 | 0 | 9 |
+| 360d | 2025-09-19 | 1 | 3 | 1 | 0 | 0 | 26 |
+| last720d | 2024-09-24 | 2 | 5 | 2 | 2 | 0 | 73 |
 
 ## Release 资产
 
@@ -64,10 +64,6 @@ x install dusage
 | [dusage_0.4.1_amd64.deb](https://github.com/mihaigalos/dusage/releases/download/0.4.1/dusage_0.4.1_amd64.deb) | 349.9 KiB | `runtime/deb/amd64` |
 | [dusage_0.4.1_arm64.deb](https://github.com/mihaigalos/dusage/releases/download/0.4.1/dusage_0.4.1_arm64.deb) | 322.3 KiB | `runtime/deb/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/dusage) 上共有 **5** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
 ## 改进这些数据
 
 dusage 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dusage` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -77,4 +73,4 @@ dusage 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:34:16Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:48:31Z._
