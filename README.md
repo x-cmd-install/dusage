@@ -46,12 +46,12 @@ Total: **612** lines of code across **14** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 1 | 0 | 0 | 0 | 2 |
-| 90d | 2026-07-24 | 1 | 2 | 0 | 0 | 0 | 5 |
-| last180d | 2026-04-25 | 1 | 2 | 1 | 0 | 0 | 9 |
-| 360d | 2025-10-27 | 1 | 2 | 1 | 0 | 0 | 23 |
-| last720d | 2024-11-01 | 2 | 4 | 2 | 2 | 0 | 70 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 1 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-25 | 1 | 2 | 0 | 0 | 0 | 5 |
+| last180d | 2026-04-26 | 1 | 2 | 1 | 0 | 0 | 9 |
+| 360d | 2025-10-28 | 1 | 2 | 1 | 0 | 0 | 23 |
+| last720d | 2024-11-02 | 2 | 4 | 2 | 2 | 0 | 70 |
 
 ## Release assets
 
@@ -64,6 +64,10 @@ Total: **612** lines of code across **14** files in the top 5 languages.
 | [dusage_0.4.1_amd64.deb](https://github.com/mihaigalos/dusage/releases/download/0.4.1/dusage_0.4.1_amd64.deb) | 349.9 KiB | `runtime/deb/amd64` |
 | [dusage_0.4.1_arm64.deb](https://github.com/mihaigalos/dusage/releases/download/0.4.1/dusage_0.4.1_arm64.deb) | 322.3 KiB | `runtime/deb/arm64` |
 
+## Distribution status
+
+Reported by **5** distros on [repology.org](https://repology.org/project/dusage). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for dusage lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dusage` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +77,4 @@ Install metadata for dusage lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:24:48Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:27:37Z._
