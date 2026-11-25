@@ -31,7 +31,7 @@ Total: **612** lines of code across **14** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.4.1` (2026-08-18)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-24
 - **Assets in release**: 6
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **612** lines of code across **14** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 52 · **Open PRs**: 3 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 371
+- **Releases**: 14 · **Merged PRs**: 52 · **Open PRs**: 3 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 372
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 3 |
-| 90d | 2026-08-26 | 0 | 1 | 0 | 0 | 0 | 4 |
-| last180d | 2026-05-28 | 1 | 2 | 1 | 0 | 0 | 11 |
-| 360d | 2025-11-29 | 1 | 2 | 1 | 0 | 0 | 24 |
-| last720d | 2024-12-04 | 2 | 4 | 2 | 1 | 0 | 71 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-27 | 0 | 1 | 0 | 0 | 0 | 5 |
+| last180d | 2026-05-29 | 1 | 2 | 1 | 0 | 0 | 12 |
+| 360d | 2025-11-30 | 1 | 2 | 1 | 0 | 0 | 25 |
+| last720d | 2024-12-05 | 2 | 4 | 2 | 1 | 0 | 72 |
 
 ## Release assets
 
@@ -64,10 +64,6 @@ Total: **612** lines of code across **14** files in the top 5 languages.
 | [dusage_0.4.1_amd64.deb](https://github.com/mihaigalos/dusage/releases/download/0.4.1/dusage_0.4.1_amd64.deb) | 349.9 KiB | `runtime/deb/amd64` |
 | [dusage_0.4.1_arm64.deb](https://github.com/mihaigalos/dusage/releases/download/0.4.1/dusage_0.4.1_arm64.deb) | 322.3 KiB | `runtime/deb/arm64` |
 
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/dusage). **3** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for dusage lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dusage` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +73,4 @@ Install metadata for dusage lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:31:55Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:57:53Z._
